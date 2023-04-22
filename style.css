@@ -1,0 +1,22 @@
+.car{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.car b{
+    font-size: 30px;
+    color: 	#3e90ff;
+}
+.car h5{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    opacity: 0.7;
+}
+h1{
+    text-align: center;
+    color: #3e90ff;
+}
+
+h5{
+    text-align: center;
+    padding-bottom: 50px;
+}
