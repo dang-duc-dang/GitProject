@@ -1,38 +1,97 @@
-.car{
+.car {
     padding-top: 50px;
     padding-bottom: 50px;
 }
-.car b{
+
+.car b {
     font-size: 30px;
-    color: 	#3e90ff;
+    color: #3e90ff;
 }
-.car h5{
+
+.car h5 {
     padding-top: 30px;
     padding-bottom: 30px;
     opacity: 0.7;
 }
-.study h1{
+
+.study h1 {
     text-align: center;
     color: #3e90ff;
 }
 
-.study h5{
+.study h5 {
     text-align: center;
     padding-bottom: 50px;
 }
-.sady{
+
+.sady {
     padding-top: 50px;
 }
-.hero{
+
+.hero {
     padding-left: 200px;
     padding-right: 200px;
 }
-.hero h1{
+
+.hero h1 {
     text-align: center;
     color: #3e90ff;
 }
-.hero h5{
+
+.hero h5 {
     text-align: center;
     opacity: 0.7;
     font-size: 15px;
+}
+
+
+.nas h1,h5,h6 {
+    padding-bottom: 30px;
+}
+.nas h1{
+    font-weight: 700;
+}
+
+.nas h5,h6 {
+    opacity: 0.7;
+}
+
+.div-left {
+
+    float: left;
+
+    text-align: center;
+}
+
+.rass {
+    float: left;
+
+    text-align: center;
+}
+
+.ras {
+    width: 200px;
+
+    float: left;
+
+    text-align: center;
+}
+
+.div-left h1 {
+    font-weight: 700;
+    color: #3e90ff;
+}
+
+.ras h1 {
+    font-weight: 700;
+    color: #3e90ff;
+}
+
+.rass h1 {
+    font-weight: 700;
+    color: #3e90ff;
+}
+ 
+.aas b{
+    padding-left: 20px;
 }
